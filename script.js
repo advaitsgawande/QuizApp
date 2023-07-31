@@ -75,21 +75,21 @@ const questions = [
       { text: "_expression", correct: false },
     ],
   },
-  {
-    question: "What are Props?",
-    answers: [
-      {
-        text: "Props are arguments passed into React components.",
-        correct: true,
-      },
-      { text: "Props are functions in the ReactJS.", correct: false },
-      {
-        text: "Props are used to returns multiple values from the function",
-        correct: false,
-      },
-      { text: "All of the above", correct: false },
-    ],
-  },
+  // {
+  //   question: "What are Props?",
+  //   answers: [
+  //     {
+  //       text: "Props are arguments passed into React components.",
+  //       correct: true,
+  //     },
+  //     { text: "Props are functions in the ReactJS.", correct: false },
+  //     {
+  //       text: "Props are used to returns multiple values from the function",
+  //       correct: false,
+  //     },
+  //     { text: "All of the above", correct: false },
+  //   ],
+  // },
   {
     question:
       " In ES6 – The class properties are assigned inside a ___ method.",
